@@ -1,4 +1,4 @@
-# Telegram to LinkedIn Newsletter Automation
+# Telegram to LinkedIn/Email Newsletter Automation
 
 > A weekly automation that pulls discussions from a Telegram supergroup, identifies high-engagement posts using a category-aware ranking system, generates a LinkedIn-ready post via Claude, and delivers it as a Gmail draft for human review.
 
