@@ -1,0 +1,40 @@
+# Secrets - NEVER commit these
+.env
+.env.local
+.env.*.local
+service_account.json
+gmail_credentials.json
+gmail_token.json
+*.session
+*.session-journal
+
+# Generated session bootstrap script
+generate_session_string.py
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+.venv/
+build/
+dist/
+*.egg-info/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
